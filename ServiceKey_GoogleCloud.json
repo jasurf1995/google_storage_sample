@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "winged-moon-318314",
+  "private_key_id": "bb85600d94b7e8ff6647ed151d463b9f87de1a0a",
+  "private_key": "PRIVATE KEY",
+  "client_email": "jasur-cloud-storage-read-only@winged-moon-318314.iam.gserviceaccount.com",
+  "client_id": "108581089943994078613",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jasur-cloud-storage-read-only%40winged-moon-318314.iam.gserviceaccount.com"
+}
